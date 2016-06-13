@@ -53,15 +53,15 @@ footer{
     margin:auto;
   }
   section{
-    width:calc(70%-20px);
+    width:calc(70% - 20px);
     float:left;
   }
   #side{
-    width:calc(1024%-718px);
+    width:calc(1024% - 718px);
     float:left;
   }
   aside{
-    width:calc(100%-20px);
+    width:calc(100% - 20px);
   }
   #main:after{
     content:"";
